@@ -24,7 +24,8 @@ function iLoveTheBeatles(num){
   let finArr = [];
   let i = 0;
   do {
-    i = 
+    i = i + 1;
+    
     
   } while(i < num -1);  
   }
