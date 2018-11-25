@@ -1,9 +1,9 @@
 // add solution here
 function theBeatlesPlay(musicians, instruments){
   let newStr = "";
-  let finArr = [];
+  let musiciansGroup = [];
   for(let i = 0; i < musicians.length; i++){
-       finArr.push()
+       musiciansGroup.push(musicians[i] + "plays" + instruments[i])
       
   }
     
