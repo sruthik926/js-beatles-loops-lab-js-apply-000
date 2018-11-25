@@ -12,7 +12,7 @@ function theBeatlesPlay(musicians, instruments){
 
 function johnLennonFacts(facts){
   let exclamPoint = [];
-  i = 0;
+  let i = 0;
   while(i < facts.length){
     exclamPoint.push(facts[i] + "!!!");
      i += 1;
